@@ -9,7 +9,7 @@
 
 ## 安裝要求
 - Python 3.x
-- 所需的 Python 套件（如 `scrapy`, `requests` 等）
+- 所需的 Python 套件
 
 ## 安裝步驟
 1. 克隆此倉庫。
